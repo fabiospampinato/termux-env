@@ -1,0 +1,9 @@
+{
+  "CtrlO": "command:fzf",
+  "CtrlW": "Quit",
+  "CtrlRightSq": "NextTab",
+  "CtrlLeftSq": "PreviousTab",
+  "CtrlSpace": "ShellMode",
+  "Alt-/": "comment.comment",
+  "CtrlB": "filemanager.toggle_tree"
+}
