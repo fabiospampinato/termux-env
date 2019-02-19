@@ -16,6 +16,6 @@ bash -c "$(wget https://bit.ly/2Slw2KX -O -)"
 
 ## Tips
 
-- **Immersive mode**: it might be a good idea to force Termux to go fullscreen, in order to have more real eastate:
+- **Immersive mode**: it might be a good idea to force Termux to go fullscreen, in order to have more screen real estate:
   - **Enable**: `adb shell settings put global policy_control immersive.full=com.termux`
   - **Disable**: `adb shell settings put global policy_control immersive.off=com.termux`
