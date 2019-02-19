@@ -1,5 +1,5 @@
 # Packages
-pkg install -y bc fd fzf git htop hub jq micro nnn nodejs openssh termux-api tmux zsh
+pkg install -y bc fd fzf git htop hub jq micro ncdu nnn nodejs openssh termux-api tmux zsh
 # NPM Packages
 npm install -g lodash prettier
 # Env
